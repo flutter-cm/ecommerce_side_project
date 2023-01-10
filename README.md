@@ -1,6 +1,23 @@
-# ecommerce_side_project
+# Ecommerce Side Project
 
 A new Flutter project.
+
+Design Repository: https://github.com/Abdulkadir19997/ecommerce-shope-app.git
+Backend : firebase
+
+## Features
+
+- [x] Login
+- [x] Register
+- [x] Home
+- [x] Product Detail
+- [x] Cart
+- [x] Profile
+- [x] Search
+- [x] Order
+- [x] Order Detail
+- [x] Order History
+- [x] Order History Detail
 
 ## Getting Started
 
@@ -14,3 +31,13 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+
+## How to run
+
+1. Clone the repo
+2. Run `flutter pub get` to install dependencies
+3. Run `flutter run` to run the app
+
+## How to run tests
+
+1. Run `flutter test` to run all tests
