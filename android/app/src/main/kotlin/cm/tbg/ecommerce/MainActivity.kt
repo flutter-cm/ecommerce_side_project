@@ -1,4 +1,4 @@
-package com.example.ecommerce_side_project
+package cm.tbg.ecommerce
 
 import io.flutter.embedding.android.FlutterActivity
 
